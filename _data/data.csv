@@ -1,5 +1,5 @@
 objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
-item1,goca54.jpg,,,image/jpg,GOCA or Gallaries of Contemporary Art is located in the Ent Center building located on the UCCS campus,,,,,,,,,,,,,,,,,,,,
+item1,goca54.jpg,,Title,image/jpg,GOCA or Gallaries of Contemporary Art is located in the Ent Center building located on the UCCS campus,,,,,,,,,,,,,,,,,,,,
 item2,goca20.jpg,,,image/jpg,"They exhibit contemporary artists in thier two exhibit spaces, which are the Marie Walsh Gallery and the Project space",,,,,,,,,,,,,,,,,,,,
 item3,goca30.jpg,,,image/jpg,They also have a simi-perminite out door artwork collection that is placed around the Ent Center building,,,,,,,,,,,,,,,,,,,,
 item4,penrose3.jpg,,,image/jpg,This museum exhibits the collection of artifacts that tell the story of Spencer and Julie Penrose's life ,,,,,,,,,,,,,,,,,,,,
@@ -16,4 +16,5 @@ item14,westernmuseum33.jpg,,,image/jpg,"The Western Museum of Minning and Indust
 item15,westernmuseum1.jpg,,,image/jpg,"This is an example of one of thier exhibit spaces, Assay Rooms are places that would find how much of the minnerals found in the mine are pure",,,,,,,,,,,,,,,,,,,,
 item16,westernmuseum9.jpg,,,image/jpg,Fluorescent Minerals,,,,,,,,,,,,,,,,,,,,
 item17,westernmuseum10.jpg,,,image/jpg,Panning For Gold,,,,,,,,,,,,,,,,,,,,
+
 item18,westernmuseum21.jpg,,,image/jpg,Skinner Automatic Steam Engine & Westinghouse D.C. Generator,,,,,,,,,,,,,,,,,,,,
