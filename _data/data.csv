@@ -1,5 +1,5 @@
 objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
-item1,goca54.jpg,,GOCA,image/jpg,GOCA or Gallaries of Contemporary Art is located in the Ent Center building located on the UCCS campus,,,1896,,,Art Gallary,,,,,,,,,,,,,,
+item1,goca54.jpg,,GOCA,image/jpg,GOCA or Gallaries of Contemporary Art is located in the Ent Center building located on the UCCS campus,,,1896,,,Art Gallary,Colorado Springs,38.830827008444054,-104.82304157993856,,,,,,,,,,,
 item2,goca20.jpg,,GOCA,image/jpg,"They exhibit contemporary artists in thier two exhibit spaces, which are the Marie Walsh Gallery and the Project space",,,,,,,,,,,,,,,,,,,,
 item3,goca30.jpg,,GOCA,image/jpg,They also have a simi-perminite out door artwork collection that is placed around the Ent Center building,,,,,,,,,,,,,,,,,,,,
 item4,penrose3.jpg,,Penrose Heritage Museum,image/jpg,This museum exhibits the collection of artifacts that tell the story of Spencer and Julie Penrose's life ,,,,,,,,,,,,,,,,,,,,
@@ -18,6 +18,7 @@ item16,westernmuseum9.jpg,,Western Museum of Mining & Industry,image/jpg,Fluores
 item17,westernmuseum10.jpg,,Western Museum of Mining & Industry,image/jpg,Panning For Gold,,,,,,,,,,,,,,,,,,,,
 
 item18,westernmuseum21.jpg,,Western Museum of Mining & Industry,image/jpg,Skinner Automatic Steam Engine & Westinghouse D.C. Generator,,,,,,,,,,,,,,,,,,,,
+
 
 
 
